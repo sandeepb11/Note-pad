@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "note-pad"
+    }
+  },
+  "defaultProject": "note-pad",
+  "cli": {
+    "analytics": false
+  }
 }
